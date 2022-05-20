@@ -8,6 +8,7 @@ class CurrencyExchangeServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		CurrencyExchangeServiceApplication.main(new String[]{});
 	}
 
 }
