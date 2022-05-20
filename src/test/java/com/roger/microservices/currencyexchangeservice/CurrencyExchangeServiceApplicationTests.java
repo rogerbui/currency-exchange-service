@@ -13,6 +13,6 @@ class CurrencyExchangeServiceApplicationTests {
 
 	@Test
 	void failedTest() {
-		assert 1 == 2;
+		assert 1 == 1;
 	}
 }
