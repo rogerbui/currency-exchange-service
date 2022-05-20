@@ -11,4 +11,8 @@ class CurrencyExchangeServiceApplicationTests {
 		CurrencyExchangeServiceApplication.main(new String[]{});
 	}
 
+	@Test
+	void failedTest() {
+		assert 1 == 2;
+	}
 }
